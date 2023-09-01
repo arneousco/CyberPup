@@ -3,7 +3,7 @@ A 4 legged dog robot based on Indigenous Vega processors
 
 [Official Working and demonstration GCON Vegathon](https://www.youtube.com/watch?v=BNVeU0yslkI)
 
-![finallook](https://github.com/arneousco/CyberPup/assets/72543830/bba4231a-bc43-46a7-9220-eda1d077d5f1)
+![finallook](https://github.com/arneousco/CyberPup/blob/main/assets/CyberPup.png)
 
 ## Setup
 -- Clone the repository
